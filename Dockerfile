@@ -1,1 +1,1 @@
-FROM lizhenliang/tomcat
+FROM tomcat
