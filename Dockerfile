@@ -1,1 +1,1 @@
-FROM tomcat
+FROM caarlos0/domain_exporter
